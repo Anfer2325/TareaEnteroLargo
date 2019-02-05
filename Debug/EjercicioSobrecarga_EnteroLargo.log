@@ -1,0 +1,41 @@
+﻿  EnteroGrande.cpp
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(131): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(137): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(146): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(152): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(157): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(120): warning C4172: returning address of local variable or temporary: resultado
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(213): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(218): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(227): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(232): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(237): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(247): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(252): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(261): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(266): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(271): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(280): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(286): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(295): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(300): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(307): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(315): warning C4172: returning address of local variable or temporary: respuesta
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(361): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(367): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(376): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(382): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(387): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(202): warning C4172: returning address of local variable or temporary: resultado
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(433): warning C4172: returning address of local variable or temporary: respuesta
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(324): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(330): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(339): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(344): warning C4172: returning address of local variable or temporary: h
+c:\users\user\downloads\ejerciciosobrecarga_enterogrande\enterogrande.cpp(351): warning C4172: returning address of local variable or temporary: h
+  EjercicioSobrecarga_EnteroLargo.vcxproj -> C:\Users\user\Downloads\EjercicioSobrecarga_EnteroGrande\Debug\EjercicioSobrecarga_EnteroGrande.exe
